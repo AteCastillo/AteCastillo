@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>💻 About Me </h3>
 
 
 - 🎓 &nbsp; Studying computer programming and Economic History.
