@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my personal web page...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,14 +21,16 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Studying computer programming and Economic History.
 - 🌱 &nbsp; Enthusiast in Programming, traveling.
-- 🔭 &nbsp; Problem-Solving skills & Desing Thinking experience.
+- 🔭 I’m currently working on my personal web page.
+- 🌱 I’m currently learning JS and React.
+- 👯 I’m looking to collaborate on open source projects.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Bash
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- 🔧 &nbsp; Emacs | Visual Studio Code
-<!--- 🛢 &nbsp; MySQL -->
+- 🌐 &nbsp; HTML | CSS | JavaScript | React
+- 🔧 &nbsp; Emacs | VIM | Visual Studio Code
+- 🛢 &nbsp; MySQL
 
 <br>
 
